@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="128" viewBox="0 0 680 128" role="img" aria-labelledby="title desc">
+<title id="title">SOC Ledger</title><desc id="desc">A battery icon with a rising and falling state-of-charge trace beside the words SOC Ledger.</desc>
+<rect width="680" height="128" rx="18" fill="#10253b"/>
+<rect x="30" y="32" width="118" height="64" rx="9" fill="none" stroke="#73dfb0" stroke-width="5"/><rect x="148" y="52" width="11" height="24" rx="4" fill="#73dfb0"/>
+<path d="M43 73 L64 73 L81 51 L99 84 L119 60 L138 60" fill="none" stroke="#ffd479" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="186" y="74" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" font-size="42" fill="#ffffff">SOC Ledger</text>
+<text x="188" y="101" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#c8d7e8">Trace the energy. Trust the schedule.</text>
+</svg>

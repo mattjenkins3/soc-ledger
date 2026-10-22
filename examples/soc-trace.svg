@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="270" viewBox="0 0 760 270" role="img" aria-labelledby="title desc">
+<title id="title">Synthetic SOC example: expected versus observed</title><desc id="desc">Line chart showing a deliberate one-megawatt-hour inconsistency at interval 4 and an additional simultaneous charge-discharge finding at interval 5.</desc>
+<rect width="760" height="270" rx="12" fill="#f5f9fd"/>
+<text x="28" y="32" font-size="19" font-family="Arial,sans-serif" fill="#16324d">Illustrative battery SOC trace (synthetic data)</text>
+<path d="M65 55 V219 H720" stroke="#71889d" fill="none" stroke-width="2"/>
+<g stroke="#d7e1eb" stroke-width="1"><path d="M65 90 H720 M65 140 H720 M65 190 H720"/></g>
+<g font-size="13" font-family="Arial,sans-serif" fill="#435d75"><text x="28" y="94">7</text><text x="28" y="144">6</text><text x="28" y="194">5</text><text x="80" y="239">1</text><text x="225" y="239">2</text><text x="370" y="239">3</text><text x="515" y="239">4</text><text x="660" y="239">5</text><text x="324" y="260">Interval number</text><text x="15" y="57">MWh</text></g>
+<polyline points="85,145 230,198 375,198 520,150 665,100" stroke="#d25e56" stroke-width="4" fill="none" stroke-dasharray="7 6"/>
+<polyline points="85,145 230,198 375,198 520,100 665,100" stroke="#167e8a" stroke-width="4" fill="none"/>
+<circle cx="520" cy="100" r="8" fill="#167e8a"/><circle cx="520" cy="150" r="7" fill="#d25e56"/>
+<path d="M537 105 L562 67" stroke="#ad403a" stroke-width="2"/><text x="566" y="64" font-size="14" fill="#ad403a" font-family="Arial,sans-serif">SOC residual</text>
+<text x="70" y="49" font-size="13" fill="#167e8a" font-family="Arial,sans-serif">● observed</text><text x="184" y="49" font-size="13" fill="#d25e56" font-family="Arial,sans-serif">--- predicted</text>
+</svg>
